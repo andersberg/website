@@ -8,6 +8,17 @@ const global = css`
     --navy: #1A335F;
   }
 
+  @font-face {
+    font-family: 'Cerebri Sans';
+    src: 
+      url('fonts/CerebriSans-Bold.ttf') format('truetype'),
+      url('fonts/CerebriSans-Bold.woff') format('woff'),
+      url('fonts/CerebriSans-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-display: auto;
+    font-style: normal;
+  }
+
   * {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
