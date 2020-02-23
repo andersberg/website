@@ -17,6 +17,7 @@
     "sanitize.css": "^11.0.0"
   },
   "devDependencies": {
+    "@architect/sandbox": "^1.7.1",
     "@types/node": "^13.7.4",
     "@types/react": "^16.9.22",
     "csstype": "^2.6.9",
